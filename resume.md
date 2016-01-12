@@ -9,9 +9,11 @@ Resume
 
 Overview
 ----
-- Rich engineering experience and solid foundation of algorithm
-- Passionate about the latest technologies, further, the principle behind them
-- Know about OS, compiler, embedded, back-end, App, streaming media, TDD
+- Rich engineering experience and familiar with regular algorithm
+- Passionate about the latest technologies, further, the principles behind them
+- Familiar with Node.js, Java, C. Know about Groovy, Haskell
+- Practiced with TDD and regular design patterns
+- Experience with OS, compiler, SCM, demoboard, Raspberry Pi
 - Translated several entries on MDN, pulled some requests to open source projects
 - Applied for a gap year in college and had a 5-month internship in a startup company
 - 6 years experience of using Linux
@@ -29,6 +31,7 @@ Experiences
 --
 
 #####Web Scraping Framework | Personal Project | 2015.11
+- Tech Stack: Node.js, PhantomJS, XPath, MongoDB
 - Easy to use. Be able to define a scraper in few lines
 - Modularization, hot-plugging, high flexibility & scalability
 - Implemented proxy pool, command-line tool, logging system
@@ -37,6 +40,7 @@ Experiences
 --
 
 #####Parser Generator | Personal Project | 2015.09 - 2015.10
+- Tech Stack: Groovy, Spock, Jenkins CI
 - Be able to process LR0, LR1 & LALR1 grammar
 - Be able to convert the input stream into an AST
 - 100% test coverage
@@ -44,20 +48,22 @@ Experiences
 --
 
 #####Streaming Video Server | Team Project, Team Leader | 2013.10 - 2014.03
+- Tech Stack: Java, shell, Servlet, VideoLAN
 - Using master/slave design pattern, limited scalability
-- Using Shell for automated deployment
+- Using shell for automated deployment
 - Defined communication protocol between client & server
 - Did depth research on some details of RTSP
 
 --
 
-#####Shell Web Scraper | Personal Project | 2014.01
+#####shell Web Scraper | Personal Project | 2014.01
+- Tech Stack: shell, netcat, sed, awk, ImageMagick, Tesseract, crontab
 - Be able to perform complex logic on a specific website
 - Only shell script & several command-line tools
-- Simple authenticode recognition using tesseract
+- Simple authenticode recognition & cookie management
 
 --
 
 #####Toy OS Kernel | Personal Project | 2013.05 - 2013.09
-- Running on mini2440, using mixed assembly & C
+- Tech Stack: mini2440, ARM assembly, C
 - Basic memory allocation and management function and process management function
