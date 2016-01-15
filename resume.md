@@ -5,7 +5,7 @@ Resume
 |name|任泽华|
 |E-mail|[renzholy@gmail.com](mailto:renzholy@gmail.com)|
 |Education|UESTC, 3rd year|
-|Major|computer science & technology|
+|Major|Computer Science & Technology|
 
 Overview
 ----
