@@ -23,7 +23,7 @@ Experiences
 ----
 #####Android Development | Full-time Internship | 2015.03 - 2015.08
 - Joined as the NO.5 member and took charge of Android development of [即刻](http://jike.ruguoapp.com)
-- Start from zero and learn by doing. The initial version went online in 5 weeks
+- Start from zero and learn by doing. The initial stable version went online in 5 weeks
 - Developed all 1.x versions alone. Took part in 2.0 version development
 - Refactored the backend scraping system within one weekend
 - This app has been recommended by [最美应用](http://zuimeia.com/app/2879/) and awarded [豌豆荚设计奖](http://www.wandoujia.com/award/blog/com.ruguoapp.jike)
