@@ -12,9 +12,9 @@ Overview
 - Rich engineering experience and good base of algorithm
 - Passionate about the latest technologies and the principles behind them
 - Familiar with Node.js, Java, C. Know about Groovy, Haskell
-- Practiced with TDD and regular design patterns
-- Experience with OS, compiler, SCM, demoboard, Raspberry Pi
-- Translated several entries on MDN, pulled some requests to open source projects
+- Practiced TDD and regular design patterns
+- Experience in OS, compiler, SCM, demoboard, Raspberry Pi
+- Translated several entries on MDN, contributed pull requests to open source projects
 - Applied for a gap year in college and had a 5-month internship in a startup company
 - 6 years experience of using Linux
 - 2nd prize of NOIP
@@ -22,27 +22,27 @@ Overview
 Experiences
 ----
 #####Android Development | Full-time Internship | 2015.03 - 2015.08
-- Joined as the NO.5 member and be in charge of Android App development called [即刻](http://jike.ruguoapp.com)
-- Starting from zero and learning by doing. v1.0 go into production in 5 weeks
-- Developed all v1.x by myself and completed v2.0 with teamwork then handover the project
-- Refactored the back-end scraping system at a weekend
-- This App was recommend by [最美应用](http://zuimeia.com/app/2879/) and awarded [豌豆荚设计奖](http://www.wandoujia.com/award/blog/com.ruguoapp.jike)
+- Joined as the NO.5 member and take charge of Android development of [即刻](http://jike.ruguoapp.com)
+- Start from zero and learn by doing. The initial version went online in 5 weeks
+- Developed all 1.x versions alone. Took part in 2.0 version development
+- Refactored the backend scraping system within one weekend
+- This app has been recommended by [最美应用](http://zuimeia.com/app/2879/) and awarded [豌豆荚设计奖](http://www.wandoujia.com/award/blog/com.ruguoapp.jike)
 
 --
 
 #####Web Scraping Framework | Personal Project | 2015.11
 - Technology stack: Node.js, PhantomJS, XPath, MongoDB
-- Easy to use. Be able to define a scraper in few lines
+- Easy to use. Capable of defining a scraper in few lines
 - Modularization, hot-plugging, high flexibility & scalability
 - Implemented proxy pool, command-line tool, logging system
-- Provided various of basic scrapers for use and reuse
+- Provided various basic scrapers for use/reuse
 
 --
 
 #####Parser Generator | Personal Project | 2015.09 - 2015.10
 - Technology stack: Groovy, Spock, Jenkins CI
-- Be able to process LR0, LR1 & LALR1 grammar
-- Be able to convert the input stream into an AST
+- Compatible with LR0, LR1 & LALR1 grammar
+- Convert input stream into an AST
 - 100% test coverage
 
 --
@@ -58,7 +58,7 @@ Experiences
 
 #####Shell Web Scraper | Personal Project | 2014.01
 - Technology stack: Shell, netcat, sed, awk, ImageMagick, Tesseract, crontab
-- Be able to perform complex logic on a specific website
+- Performs complex logic on a specific website
 - Only Shell script & several command-line tools
 - Simple authenticode recognition & cookie management
 
