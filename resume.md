@@ -9,10 +9,10 @@ Resume
 
 Overview
 ----
-- Rich engineering experience and good base of algorithm
+- Rich engineering experience and solid foundation of algorithm
 - Passionate about the latest technologies and the principles behind them
-- Familiar with Node.js, Java, C. Know about Groovy, Haskell
-- Practiced TDD and regular design patterns
+- Familiar with Node.js, Java, C. Know about Groovy, Shell
+- Practiced TDD and common design patterns
 - Experience in OS, compiler, SCM, demoboard, Raspberry Pi
 - Translated several entries on MDN, contributed pull requests to open source projects
 - Applied for a gap year in college and had a 5-month internship in a startup company
@@ -22,7 +22,7 @@ Overview
 Experiences
 ----
 #####Android Development | Full-time Internship | 2015.03 - 2015.08
-- Joined as the NO.5 member and take charge of Android development of [即刻](http://jike.ruguoapp.com)
+- Joined as the NO.5 member and took charge of Android development of [即刻](http://jike.ruguoapp.com)
 - Start from zero and learn by doing. The initial version went online in 5 weeks
 - Developed all 1.x versions alone. Took part in 2.0 version development
 - Refactored the backend scraping system within one weekend
