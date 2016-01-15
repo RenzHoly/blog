@@ -9,8 +9,8 @@ Resume
 
 Overview
 ----
-- Rich engineering experience and familiar with regular algorithm
-- Passionate about the latest technologies, further, the principles behind them
+- Rich engineering experience and good base of algorithm
+- Passionate about the latest technologies and the principles behind them
 - Familiar with Node.js, Java, C. Know about Groovy, Haskell
 - Practiced with TDD and regular design patterns
 - Experience with OS, compiler, SCM, demoboard, Raspberry Pi
@@ -31,7 +31,7 @@ Experiences
 --
 
 #####Web Scraping Framework | Personal Project | 2015.11
-- Tech Stack: Node.js, PhantomJS, XPath, MongoDB
+- Technology stack: Node.js, PhantomJS, XPath, MongoDB
 - Easy to use. Be able to define a scraper in few lines
 - Modularization, hot-plugging, high flexibility & scalability
 - Implemented proxy pool, command-line tool, logging system
@@ -40,7 +40,7 @@ Experiences
 --
 
 #####Parser Generator | Personal Project | 2015.09 - 2015.10
-- Tech Stack: Groovy, Spock, Jenkins CI
+- Technology stack: Groovy, Spock, Jenkins CI
 - Be able to process LR0, LR1 & LALR1 grammar
 - Be able to convert the input stream into an AST
 - 100% test coverage
@@ -48,22 +48,22 @@ Experiences
 --
 
 #####Streaming Video Server | Team Project, Team Leader | 2013.10 - 2014.03
-- Tech Stack: Java, shell, Servlet, VideoLAN
+- Technology stack: Java, Shell, Servlet, VideoLAN
 - Using master/slave design pattern, limited scalability
-- Using shell for automated deployment
+- Using Shell for automated deployment
 - Defined communication protocol between client & server
 - Did depth research on some details of RTSP
 
 --
 
-#####shell Web Scraper | Personal Project | 2014.01
-- Tech Stack: shell, netcat, sed, awk, ImageMagick, Tesseract, crontab
+#####Shell Web Scraper | Personal Project | 2014.01
+- Technology stack: Shell, netcat, sed, awk, ImageMagick, Tesseract, crontab
 - Be able to perform complex logic on a specific website
-- Only shell script & several command-line tools
+- Only Shell script & several command-line tools
 - Simple authenticode recognition & cookie management
 
 --
 
 #####Toy OS Kernel | Personal Project | 2013.05 - 2013.09
-- Tech Stack: mini2440, ARM assembly, C
+- Technology stack: mini2440, ARM assembly, C
 - Basic memory allocation and management function and process management function
