@@ -1,10 +1,10 @@
 Resume
 ====
-|key|value|
+|Key|Value|
 |:--|:--|
-|name|任泽华|
+|Name|任泽华|
 |E-mail|[renzholy@gmail.com](mailto:renzholy@gmail.com)|
-|Education|UESTC, 3rd year|
+|Education|电子科技大学(UESTC), Junior|
 |Major|Computer Science & Technology|
 
 Overview
