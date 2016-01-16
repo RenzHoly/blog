@@ -48,7 +48,7 @@ Experiences
 --
 
 #####Streaming Video Server | Team Project, Team Leader | 2013.10 - 2014.03
-- Technology stack: Java, Shell, Servlet, VideoLAN
+- Technology stack: Java, Shell, Servlet, VideoLAN, MySQL
 - Using master/slave design pattern, limited scalability
 - Using Shell for automated deployment
 - Defined communication protocol between client & server
