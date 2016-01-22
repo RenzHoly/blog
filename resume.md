@@ -1,5 +1,4 @@
-Resume
-====
+#Resume
 |Key|Value|
 |:--|:--|
 |Name|任泽华|
@@ -7,8 +6,7 @@ Resume
 |Education|电子科技大学(UESTC), Junior|
 |Major|Computer Science & Technology|
 
-Overview
-----
+##Overview
 - Rich engineering experience and solid foundation of algorithm
 - Passionate about the latest technologies and the principles behind them
 - Familiar with Node.js, Java, C. Know about Groovy, Shell
@@ -19,8 +17,7 @@ Overview
 - 6 years experience of using Linux
 - 2nd prize of NOIP
 
-Experiences
-----
+##Experiences
 #####Android Development | Full-time Internship | 2015.03 - 2015.08
 - Joined as the NO.5 member and took charge of Android development of [即刻](http://jike.ruguoapp.com)
 - Start from zero and learn by doing. The initial stable version went online in 5 weeks
@@ -67,3 +64,4 @@ Experiences
 #####Toy OS Kernel | Personal Project | 2013.05 - 2013.09
 - Technology stack: mini2440, ARM assembly, C
 - Basic memory allocation and management function and process management function
+
