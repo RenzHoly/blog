@@ -3,6 +3,7 @@
 |:--|:--|
 |Name|任泽华|
 |E-mail|[renzholy@gmail.com](mailto:renzholy@gmail.com)|
+|Contact||
 |Education|电子科技大学(UESTC), Junior|
 |Major|Computer Science & Technology|
 
@@ -15,7 +16,6 @@
 - Translated several entries on MDN, contributed pull requests to open source projects
 - Applied for a gap year in college and had a 5-month internship in a startup company
 - 6 years experience of using Linux
-- 2nd prize of NOIP
 
 ##Experiences
 #####Android Development | Full-time Internship | 2015.03 - 2015.08
