@@ -15,7 +15,7 @@
 - Experience in OS, compiler, SCM, demoboard, Raspberry Pi
 - Translated several entries on MDN, contributed pull requests to open source projects
 - Applied for a gap year in college and had a 5-month internship in a startup company
-- 6 years experience of using Linux
+- Years of experience in the use of Linux
 
 ##Experiences
 #####Android Development | Full-time Internship | 2015.03 - 2015.08
@@ -29,7 +29,7 @@
 
 #####Web Scraping Framework | Personal Project | 2015.11
 - Technology stack: Node.js, PhantomJS, XPath, MongoDB
-- Easy to use. Capable of defining a scraper in few lines
+- Easy to use. Capable of defining a scraper in few options
 - Modularization, hot-plugging, high flexibility & scalability
 - Implemented proxy pool, command-line tool, logging system
 - Provided various basic scrapers for use/reuse
@@ -39,7 +39,7 @@
 #####Parser Generator | Personal Project | 2015.09 - 2015.10
 - Technology stack: Groovy, Spock, Jenkins CI
 - Compatible with LR0, LR1 & LALR1 grammar
-- Convert input stream into an AST
+- Be able to convert input stream into an AST
 - 100% test coverage
 
 --
